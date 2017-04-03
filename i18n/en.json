@@ -3,7 +3,7 @@
     "title": "Personality Insights",
     "name": "Personality Insights",
     "label": {
-      "documentation": "Documentation",
+      "documentation": "Documentation Test Books",
       "apiOverview": "API Overview",
       "contactUs": "Contact Us",
       "keepExploring": "Keep Exploring",
@@ -20,7 +20,7 @@
       "spanish": "Spanish",
       "english": "English",
       "chooseLanguage": "Choose Language",
-      "forkAndDeployBluemix": "Fork and Deploy on Bluemix",
+      "forkAndDeployBluemix": "Fork and Deploy on Bluemix Hola",
       "resources": "Resources",
       "services": "Services",
       "docs": "Docs",
@@ -29,7 +29,7 @@
       "words": "words"
     },
     "input": {
-      "placeHolder": "Please enter English text to analyze (minimum of 100 words)...",
+      "placeHolder": "Please enter English text to analyze (minimum of 115 words)...",
       "clear": "Clear",
       "analyze": "Analyze",
       "title": "Input Text"

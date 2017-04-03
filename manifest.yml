@@ -1,7 +1,7 @@
 applications:
 - path: .
   memory: 512M
-  instances: 2
+  instances: 1
   domain: mybluemix.net
   name: Hector3abr2017
   host: Hector-3abr-2017
@@ -9,4 +9,3 @@ applications:
   services:
   - Hector3abr2017-personality_insights
   - Auto-Scaling-46
-  - availability-monitoring-auto
